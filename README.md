@@ -49,14 +49,3 @@ The Arduino code is provided in **`traffic_light.ino`**. It:
 ## 📚 References
 - Original guide: [PiMyLifeUp - Arduino Traffic Light](https://pimylifeup.com/arduino-traffic-light-project/)
 - LED Data Sheet: *Check the provided documentation.*
-
----
-
-### **How to Add This to GitHub**
-1. **Create a new GitHub repository**.
-2. Click **"Add file" → "Upload files"**.
-3. Upload:
-   - `traffic_light.ino`
-   - `README.md`
-   - `circuit_diagram.png` (if available)
-4. Click **"Commit changes"**.
