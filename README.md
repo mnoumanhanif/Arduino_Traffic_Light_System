@@ -60,7 +60,3 @@ The Arduino code is provided in **`traffic_light.ino`**. It:
    - `README.md`
    - `circuit_diagram.png` (if available)
 4. Click **"Commit changes"**.
-
----
-
-✅ **Your Traffic Light System project is ready for GitHub!** 🚦 Let me know if you need any modifications. 🚀
