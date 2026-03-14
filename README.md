@@ -15,7 +15,7 @@ A traffic light simulator built with an **Arduino UNO** and three LEDs. The syst
 
 ## Tech Stack
 
-- **Hardware:** Arduino UNO, LEDs, 220 ohm resistors, breadboard
+- **Hardware:** Arduino UNO, LEDs, 220 Ohm resistors, breadboard
 - **Language:** C++ (Arduino)
 - **IDE:** Arduino IDE or PlatformIO
 
@@ -49,7 +49,7 @@ A traffic light simulator built with an **Arduino UNO** and three LEDs. The syst
 | Red LED        | 1        | Stop signal                   |
 | Yellow LED     | 1        | Caution signal                |
 | Green LED      | 1        | Go signal                     |
-| 220 ohm Resistors | 3     | Current limiting for LEDs     |
+| 220 Ohm Resistors | 3     | Current limiting for LEDs     |
 | Jumper Wires   | 5        | Connections                   |
 
 ## Installation
